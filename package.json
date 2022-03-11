@@ -1,0 +1,20 @@
+{
+    "name": "discord-token-verification",
+    "version": "1.0.0",
+    "description": "Script vérification token discord.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "chalk": "^2.4.1",
+        "fs": "^0.0.1-security",
+        "install": "^0.13.0",
+        "request": "^2.88.2"
+    },
+    "keywords": [
+        "Discord Checker"
+    ],
+    "author": "MatgordFR#1805",
+    "license": "MIT"
+}
